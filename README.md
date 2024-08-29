@@ -25,8 +25,3 @@ Here are some screenshots of the Expense Tracker app in action:
 
 
 
-For any queries or suggestions, feel free to contact me at [furqanullah717@gmail.com](mailto:furqanullah717@gmail.com).
-
----
-
-**YouTube Channel:** [CodeWithFK](https://www.youtube.com/@codewithfk)
