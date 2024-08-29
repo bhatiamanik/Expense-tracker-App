@@ -1,4 +1,4 @@
-package com.codewithfk.expensetracker.android
+package com.manik.expensetracker.android
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.layout.padding
