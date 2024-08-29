@@ -1,4 +1,4 @@
-package com.codewithfk.expensetracker.android
+package com.manik.expensetracker.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
